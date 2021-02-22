@@ -1,4 +1,4 @@
-package com.salahbkd.datastructures.linkedlists;
+package com.salahbkd.ads.linkedlists;
 
 public class TestLinkedList {
 

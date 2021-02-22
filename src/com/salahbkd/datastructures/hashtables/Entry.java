@@ -1,4 +1,4 @@
-package com.salahbkd.datastructures.hashtables;
+package com.salahbkd.ads.hashtables;
 
 public class Entry {
 	public int key;

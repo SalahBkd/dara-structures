@@ -1,4 +1,4 @@
-package com.salahbkd.datastructures.queues;
+package com.salahbkd.ads.queues;
 
 import java.util.Stack;
 

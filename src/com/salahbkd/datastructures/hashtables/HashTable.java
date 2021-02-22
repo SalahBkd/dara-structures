@@ -1,4 +1,4 @@
-package com.salahbkd.datastructures.hashtables;
+package com.salahbkd.ads.hashtables;
 
 import java.util.*;
 

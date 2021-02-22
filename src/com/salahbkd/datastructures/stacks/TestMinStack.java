@@ -1,4 +1,4 @@
-package com.salahbkd.datastructures.stacks;
+package com.salahbkd.ads.stacks;
 
 public class TestMinStack {
 	public static void main(String[] args) {

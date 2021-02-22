@@ -2,7 +2,7 @@
  * Dynamic array class implementation
  * 
  * */
-package com.salahbkd.datastructures.arrays;
+package com.salahbkd.ads.arrays;
 
 public class Array {
 	private int[] items;
